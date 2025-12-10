@@ -1,0 +1,35 @@
+# Brazino777 Brasil - robots.txt
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://brazino777brasil.com/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Allow all main pages
+Allow: /brazino-777-brasil.html
+Allow: /brazino-777-cadastro.html
+Allow: /brazino-777-bonus.html
+Allow: /brazino-777-confiavel.html
+Allow: /brazino-777-pix.html
+Allow: /brazino-777-cassino.html
+Allow: /brazino-777-apostas.html
+Allow: /brazino-777-app.html
+Allow: /brazino-777-suporte.html
+Allow: /brazino-777-faq.html
+
+# Allow CSS and images
+Allow: /css/
+Allow: /images/
+
+# Block 404 page from indexing
+Disallow: /404.html
