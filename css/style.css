@@ -554,6 +554,26 @@ em {
 }
 
 /* ================================
+   ARTICLE META COMPONENT (E-E-A-T)
+   ================================ */
+.article-meta {
+  padding: var(--space-4) 0;
+  background: var(--color-background-alt);
+  border-bottom: 1px solid rgba(var(--color-primary-rgb), 0.2);
+}
+
+.article-meta .meta-info {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  text-align: center;
+  margin: 0;
+}
+
+.article-meta .meta-info strong {
+  color: var(--color-primary);
+}
+
+/* ================================
    CONTENT BLOCK COMPONENT
    ================================ */
 .content-block {
