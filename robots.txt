@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://brazino777brasil.com/sitemap.xml
+Sitemap: https://brazino777br.net/sitemap.xml
 
 # Crawl-delay (optional, for polite crawling)
 Crawl-delay: 1
